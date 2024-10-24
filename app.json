@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac689940-b87f-4844-85c9-444e712bedbe"
+      }
+    },
+    "owner": "coleakira"
   }
 }
